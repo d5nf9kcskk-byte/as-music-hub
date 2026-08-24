@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alpharetta Symphony Hub//as//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alpharetta Symphony · Chamber Series · Assignments
+X-WR-CALDESC:Chamber Series · Assignments
+X-WR-TIMEZONE:America/New_York
+
+END:VCALENDAR

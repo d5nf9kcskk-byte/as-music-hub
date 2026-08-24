@@ -1,0 +1,154 @@
+{
+  "generated": "2026-08-24T01:55:42.258Z",
+  "feeds": [
+    {
+      "name": "All Events",
+      "file": "all.ics"
+    },
+    {
+      "name": "Schedule Changes Only",
+      "file": "changes.ics"
+    },
+    {
+      "name": "Chamber Series",
+      "ensembleId": "as-chamber",
+      "file": "ensemble-as-chamber.ics"
+    },
+    {
+      "name": "Symphony Orchestra",
+      "ensembleId": "as-orchestra",
+      "file": "ensemble-as-orchestra.ics"
+    }
+  ],
+  "viewFeeds": [
+    {
+      "slug": "ff90f4cd",
+      "file": "view-ff90f4cd.ics"
+    },
+    {
+      "slug": "1748fac7",
+      "file": "view-1748fac7.ics"
+    },
+    {
+      "slug": "5a107e04",
+      "file": "view-5a107e04.ics"
+    },
+    {
+      "slug": "f8660e79",
+      "file": "view-f8660e79.ics"
+    },
+    {
+      "slug": "1a4c8999",
+      "file": "view-1a4c8999.ics"
+    },
+    {
+      "slug": "51c0ed07",
+      "file": "view-51c0ed07.ics"
+    },
+    {
+      "slug": "5bb96738",
+      "file": "view-5bb96738.ics"
+    },
+    {
+      "slug": "1e67bbf2",
+      "file": "view-1e67bbf2.ics"
+    },
+    {
+      "slug": "bf216608",
+      "file": "view-bf216608.ics"
+    },
+    {
+      "slug": "14301380",
+      "file": "view-14301380.ics"
+    },
+    {
+      "slug": "0b94edc3",
+      "file": "view-0b94edc3.ics"
+    },
+    {
+      "slug": "103f0a62",
+      "file": "view-103f0a62.ics"
+    },
+    {
+      "slug": "920f6a5e",
+      "file": "view-920f6a5e.ics"
+    },
+    {
+      "slug": "ceaac850",
+      "file": "view-ceaac850.ics"
+    },
+    {
+      "slug": "c4128741",
+      "file": "view-c4128741.ics"
+    },
+    {
+      "slug": "2197d509",
+      "file": "view-2197d509.ics"
+    },
+    {
+      "slug": "7c87dd7c",
+      "file": "view-7c87dd7c.ics"
+    },
+    {
+      "slug": "c6d07604",
+      "file": "view-c6d07604.ics"
+    },
+    {
+      "slug": "67543997",
+      "file": "view-67543997.ics"
+    },
+    {
+      "slug": "0f2fa8e6",
+      "file": "view-0f2fa8e6.ics"
+    },
+    {
+      "slug": "4c05b2ea",
+      "file": "view-4c05b2ea.ics"
+    },
+    {
+      "slug": "f66b0e14",
+      "file": "view-f66b0e14.ics"
+    },
+    {
+      "slug": "8eff6785",
+      "file": "view-8eff6785.ics"
+    },
+    {
+      "slug": "5aacdc8d",
+      "file": "view-5aacdc8d.ics"
+    },
+    {
+      "slug": "c4bff187",
+      "file": "view-c4bff187.ics"
+    },
+    {
+      "slug": "f3e17669",
+      "file": "view-f3e17669.ics"
+    },
+    {
+      "slug": "c0c0c976",
+      "file": "view-c0c0c976.ics"
+    },
+    {
+      "slug": "6ff7cf8f",
+      "file": "view-6ff7cf8f.ics"
+    },
+    {
+      "slug": "8dd5fc53",
+      "file": "view-8dd5fc53.ics"
+    },
+    {
+      "slug": "c3d80605",
+      "file": "view-c3d80605.ics"
+    },
+    {
+      "slug": "362b41fe",
+      "file": "view-362b41fe.ics"
+    },
+    {
+      "slug": "e8103694",
+      "file": "view-e8103694.ics"
+    }
+  ],
+  "bundles": []
+}

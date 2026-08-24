@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alpharetta Symphony Hub//as//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alpharetta Symphony · Schedule changes
+X-WR-CALDESC:Cancellations and schedule changes only
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:as-svc-cancelled-2026-09-08@as.hub
+SUMMARY:[CANCELLED] Chamber Series
+DTSTART:20260908T180000
+DTEND:20260908T193000
+STATUS:CANCELLED
+LOCATION:Recital Room
+DESCRIPTION:Chamber Series\n⚠ Changed: Cancelled — venue in use for a facil
+ ity event. Chamber reads resume the following week.
+END:VEVENT
+END:VCALENDAR

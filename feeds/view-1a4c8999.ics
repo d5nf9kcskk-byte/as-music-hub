@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alpharetta Symphony Hub//as//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alpharetta Symphony · All ensembles · Concerts
+X-WR-CALDESC:All ensembles · Concerts
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:as-concert-beethoven7@as.hub
+SUMMARY:Beethoven's 7th
+DTSTART:20270430T193000
+DTEND:20270430T213000
+STATUS:CONFIRMED
+LOCATION:Alpharetta Performing Arts Center (demo)
+DESCRIPTION:Symphony Orchestra\nRepertoire: Symphony No. 7 — Ludwig van Bee
+ thoven
+END:VEVENT
+BEGIN:VEVENT
+UID:as-concert-freedom@as.hub
+SUMMARY:Let Freedom Ring!
+DTSTART:20270531T193000
+DTEND:20270531T213000
+STATUS:CONFIRMED
+LOCATION:Alpharetta Performing Arts Center (demo)
+DESCRIPTION:Symphony Orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:as-concert-holiday@as.hub
+SUMMARY:An Alpharetta Holiday
+DTSTART:20261128T193000
+DTEND:20261128T213000
+STATUS:CONFIRMED
+LOCATION:Alpharetta Performing Arts Center (demo)
+DESCRIPTION:Symphony Orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:as-concert-paris@as.hub
+SUMMARY:Impressions of Paris
+DTSTART:20270212T193000
+DTEND:20270212T213000
+STATUS:CONFIRMED
+LOCATION:Alpharetta Performing Arts Center (demo)
+DESCRIPTION:Symphony Orchestra\nRepertoire: Le Tombeau de Couperin — Mauric
+ e Ravel
+END:VEVENT
+BEGIN:VEVENT
+UID:as-concert-silver-screen@as.hub
+SUMMARY:Music from the Silver Screen
+DTSTART:20260918T193000
+DTEND:20260918T213000
+STATUS:CONFIRMED
+LOCATION:Alpharetta Performing Arts Center (demo)
+DESCRIPTION:Symphony Orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:as-concert-tchaik-borodin@as.hub
+SUMMARY:Tchaikovsky and Borodin
+DTSTART:20261030T193000
+DTEND:20261030T213000
+STATUS:CONFIRMED
+LOCATION:Alpharetta Performing Arts Center (demo)
+DESCRIPTION:Symphony Orchestra\nRepertoire: Symphony No. 5 — Pyotr Ilyich T
+ chaikovsky · Polovtsian Dances — Alexander Borodin
+END:VEVENT
+END:VCALENDAR
